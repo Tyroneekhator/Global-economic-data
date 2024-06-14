@@ -1,5 +1,9 @@
 # Global econmic data
----
+## Table of Contents
+## Glossary
+## Project Overview
+## Dashboard
+
 - Dataset: A web API url: https://api.worldbank.org/v2/country/all?format=JSON&per_page=500 
 - <img src="Screenshot (435).png" />
 - <img src="Screenshot (436).png" />>
